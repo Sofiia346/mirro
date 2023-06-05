@@ -122,10 +122,18 @@ footer {
 }
 .footer_text-wrapper-n p{
   color: #B87D58;
-  padding: 20px;
+  font-size: 14px;
+  font-family:'Roboto';
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  position: relative;
+  top: 13px;
 }
 .footer_text-wrapper-n span{
   color: #FFFFFF;
+  font-family:'Roboto';
+  position: relative;
+  top:14px;
 }
 .Email{
   color: #ABABAB;
